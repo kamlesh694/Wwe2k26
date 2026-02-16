@@ -1,7 +1,7 @@
 import React from 'react'
 import Superstar from '../RosterPage/Superstar'
 import Explore from '../RosterPage/Explore'
-import RosterImg from "/WscubeTech/Ai/ai/public/images/roster.jpeg"
+import RosterImg from "/images/roster.jpeg"
 
 export default function Roster() {
     return (

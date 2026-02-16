@@ -1,7 +1,7 @@
 import React from 'react'
 import CommunityImg from "/images/community.png"
-import discord from "/images/community1.svg"
-import redit from "/images/community2.svg"
+import discord from "/images/Community1.svg"
+import redit from "/images/Community2.svg"
 import CMpunk from "/images/CMpunk.avif"
 
 
