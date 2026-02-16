@@ -9,8 +9,8 @@ import Footer from "./common/Footer.jsx";
 import Home from "./componants/Home.jsx";
 import Roster from "./componants/Roster.jsx";
 import Community from "./componants/Community.jsx";
-import News from "./componants/News.jsx";
 
+import GameInfo from "./componants/GameInfo.jsx";
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
@@ -21,7 +21,7 @@ createRoot(document.getElementById('root')).render(
       <Route path='/' element={<Home />} />
       <Route path='/roster' element={<Roster />} />
       <Route path='/community' element={<Community/>} />
-      <Route path='/news' element={<News />} />
+      <Route path="/game-info" element={<GameInfo/>} />
       
     </Routes>
 

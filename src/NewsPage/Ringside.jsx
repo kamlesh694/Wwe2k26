@@ -1,5 +1,12 @@
 import React from 'react'
-
+import {
+    FaRedditAlien,
+    FaWhatsapp,
+    FaXTwitter,
+    FaFacebookF,
+} from "react-icons/fa6";
+import { BsShare } from "react-icons/bs";
+import { IoCopyOutline } from "react-icons/io5";
 export default function Ringside() {
     return (
         <>

@@ -83,7 +83,7 @@ export default function Header() {
           <div className="hidden lg:flex gap-8 text-sm font-semibold uppercase">
            <Link to={"/"}> <p className="hover:text-red-500 cursor-pointer">Ringside Reports</p></Link>
            <Link to={"/roster"}> <p className="hover:text-red-500 cursor-pointer">Roster</p></Link>
-            <Link to={"/news"}><p className="hover:text-red-500 cursor-pointer">Game Info</p></Link>
+            <Link to={"/game-info"}><p className="hover:text-red-500 cursor-pointer">Game Info</p></Link>
            <Link to={"/community"}> <p className="hover:text-red-500 cursor-pointer">Community</p></Link>
           </div>
         </div>
@@ -146,7 +146,7 @@ export default function Header() {
         <div className="flex flex-col gap-6 mt-12 text-lg font-semibold uppercase">
           <Link to={"/"}><p className="hover:text-red-500">Ringside Reports</p></Link>
           <Link to="/roster"><p className="hover:text-red-500">Roster</p></Link>
-         <Link to={"/news"}> <p className="hover:text-red-500">Game Info</p></Link>
+         <Link to={"/game-info"}> <p className="hover:text-red-500">Game Info</p></Link>
           <Link to={"/community"}><p className="hover:text-red-500">Community</p></Link>
 
           <button
