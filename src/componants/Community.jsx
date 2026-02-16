@@ -1,8 +1,8 @@
 import React from 'react'
-import CommunityImg from "/WscubeTech/Ai/ai/public/images/community.png"
-import discord from "/WscubeTech/Ai/ai/public/images/community1.svg"
-import redit from "/WscubeTech/Ai/ai/public/images/community2.svg"
-import CMpunk from "/WscubeTech/Ai/ai/public/images/CMpunk.avif"
+import CommunityImg from "/images/community.png"
+import discord from "/images/community1.svg"
+import redit from "/images/community2.svg"
+import CMpunk from "/images/CMpunk.avif"
 
 
 
